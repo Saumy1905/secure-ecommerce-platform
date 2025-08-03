@@ -46,9 +46,9 @@ To run the project locally, ensure you have:
 
 <div align="center">
   <img src="public/images/ui/products-page.png" alt="Products Page" width="30%">
-  <img src="public/images/ui/cart-page.png" alt="Cart Page" width="30%"> 
+  <img src="public/images/ui/dashboard-page.png" alt="Dashboard Page" width="30%"> 
   <img src="public/images/ui/checkout-page.png" alt="Checkout Page" width="30%">
-  <p><em>From left to right: Products Page, Shopping Cart, Checkout Process</em></p>
+  <p><em>From left to right: Products Page, Dashboard Cart, Checkout Process</em></p>
 </div>
 
 ## Setup Instructions
