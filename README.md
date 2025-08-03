@@ -10,7 +10,7 @@ The secure e-commerce platform allows users to:
 - Checkout with shipping and payment details
 - View and track order history
 
-The project adheres to OWASP Top 10 guidelines and incorporates PCI DSS principles for secure payment handling (mock implementation for demo purposes).
+The project adheres to OWASP Top 10 guidelines and incorporates PCI DSS principles for secure payment handling
 
 ## Tech Stack
 - **Backend**:
@@ -43,6 +43,13 @@ To run the project locally, ensure you have:
 - **Git**: For cloning the repository
 - **npm**: For installing dependencies
 - A web browser (e.g., Chrome, Firefox)
+
+<div align="center">
+  <img src="public/images/ui/products-page.png" alt="Products Page" width="30%">
+  <img src="public/images/ui/cart-page.png" alt="Cart Page" width="30%"> 
+  <img src="public/images/ui/checkout-page.png" alt="Checkout Page" width="30%">
+  <p><em>From left to right: Products Page, Shopping Cart, Checkout Process</em></p>
+</div>
 
 ## Setup Instructions
 Follow these steps to run the project on your local machine:
